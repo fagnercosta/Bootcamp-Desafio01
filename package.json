@@ -1,0 +1,17 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fagnercosta/Bootcamp-Desafio01.git",
+  "author": "root <!gown119>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
